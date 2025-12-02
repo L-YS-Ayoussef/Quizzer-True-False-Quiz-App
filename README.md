@@ -30,7 +30,7 @@ It asks a series of true/false questions, updates your score as you answer, and 
 
    ```bash
    git clone https://github.com/L-YS-Ayoussef/Quizzer-True-False-Quiz-App.git
-   cd Pomodoro
+   cd Quizzer-True-False-Quiz-App
    
 2. **Create and activate a virtual environment**
 - **Windows**:
